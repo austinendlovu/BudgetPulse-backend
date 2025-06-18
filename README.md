@@ -1,6 +1,4 @@
-Here’s the edited `README.md` for **BudgetPulse**, following the structure of your Timeback Scheduler readme:
 
----
 
 # BudgetPulse – Personal Finance Management System
 
@@ -146,6 +144,3 @@ MIT License
 
 Open an issue in the repository or reach out via GitHub for collaboration, feedback, or ideas around financial literacy and digital empowerment.
 
----
-
-Let me know if you want to include screenshots, environment variables, or CI/CD setup.
